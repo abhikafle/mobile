@@ -1,0 +1,9 @@
+Year	Desktop web(Actyal market share in %) 				mobile web(actual market share in %)
+2008	99.4													0.6
+2009	98.72													1.28
+2010	95.9													4.1
+2011	91.96													8.04
+2012	87.7													12.3
+
+references
+http://stats.areppim.com/stats/stats_mobiwebsubstxtime.htm

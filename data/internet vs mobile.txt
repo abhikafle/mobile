@@ -1,0 +1,14 @@
+year			internet users			mobile subscriber
+2003			719 mil					1415 mil
+2004			817 mil					1761 mil
+2005			1018 mil				2205 mil
+2006			1093 mil				2744 mil
+2007			1319 mil				3367 mil	
+2008			1574 mil				4029 mil
+2009			1802 mil				4640 mil
+2010			1971 mil				5317 mil
+2011			2267 mil				5957 mil
+2012			2497 mil				6835 mil	
+			
+http://www.internetworldstats.com/emarketing.htm (internet users)
+www.itu.int/en/ITU-D/Statistics/Documents/statistics/2012/Mobile_cellular_2000-2011.xls(mobile)
